@@ -1,4 +1,4 @@
-### Westerfield.Cloud Recipe
+### Westerfield.cloud Recipe
 
 #### Ingredients
 
@@ -57,7 +57,7 @@ webpack 4.43.0
   
 1. :white_check_mark:&nbsp;&nbsp;Create an Angular workspace `$ ng new --name westerfield-cloud --directory . --create-application false`
 2. Generate a new default shell application: `$ ng g application --name shell --prefix cloud --routing true --style scss`
-3. Add a new script to the workspace project.json:
+3. Add a new script to the workspace `project.json`:
   ```
   "scripts": {
     ...,
