@@ -10,7 +10,7 @@ I'm doing this for a few different reasons. My first goal is to create a themed 
 
 #### Steps to Reproduce
 
-Refer to my [Recipe]("https://github.com/ianwesterfield/westerfield.cloud/blob/develop/RECIPE.md") outlining the steps I used to create this entire application, from top to bottom and front to back!
+Refer to my [Recipe](https://github.com/ianwesterfield/westerfield.cloud/blob/develop/RECIPE.md) outlining the steps I used to create this entire application, from top to bottom and front to back!
 
 #### Development server
 
