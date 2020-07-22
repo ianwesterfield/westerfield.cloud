@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Business Case
 
-Display some best practices in full-stack development and deployment. On the menu for this project: `Angular Lib/Material Design/Go API/Postgres`
+I'm doing this for a few different reasons. My first goal is to create a themed and updated full-stack application I can quickly spin up in docker to make deep integration sandboxes. I have some other projects I want to work on and I want a sense of unity between them, so I need the steps to setup a single environment so I can just scale out in Kubernetes. I also wanted to pool my knowledge and preferred techniques in one location for easy reference ;)
 
 ## Development
 
