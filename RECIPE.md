@@ -64,7 +64,7 @@ webpack 4.43.0
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "testTeam": "ng build --prod && ng test && ng lint && ng e2e"
+    "qaTeam": "ng build --prod && ng test && ng lint && ng e2e"
   },
   ```
 4. :white_check_mark:&nbsp;&nbsp;Test for no errors with `$ npm run testTeam` to confirm everything is correctly wired.
