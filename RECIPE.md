@@ -48,12 +48,14 @@ webpack 4.43.0
 
 | :white_check_mark: | Check-in and Merge to Base Branch
 | ----------------- | ------- |
+| `[...] westerfield [...]` | **Replace any reference to "westerfield" with your own family name**
 
 
 #### 1) In the Beginning...
 
-<optional> Setup a new repo and be sure all utensils are updated
-1. :white_check_mark:&nbsp;&nbsp;Establish an Angular workspace `$ ng new --name westerfield-cloud --directory . --create-application false`
+<optional> Optionally establish a new repo and be sure all utensils are updated, then:
+  
+1. :white_check_mark:&nbsp;&nbsp;Create an Angular workspace `$ ng new --name westerfield-cloud --directory . --create-application false`
 2. Generate a new default shell application: `$ ng g application --name shell --prefix cloud --routing true --style scss`
 3. Add a new script to the workspace project.json:
   ```
@@ -62,4 +64,4 @@ webpack 4.43.0
     "qaTeam": "ng lint && ng build --prod && ng test && ng e2e"
   },
   ```
-4. :white_check_mark:&nbsp;&nbsp;Give your qaTeam a try to confirm everything is correctly wired.
+4. :white_check_mark:&nbsp;&nbsp;Give your qaTeam a try to confirm everything is wired correctly: `$ npm run qaTeam`
