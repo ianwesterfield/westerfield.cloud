@@ -44,7 +44,7 @@ rxjs 6.5.5
 typescript 3.9.7
 webpack 4.43.0
 ```
-#### Key
+#### Legend
 
 | :white_check_mark: | Check-in and Merge
 | ----------------- | ------- |
