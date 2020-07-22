@@ -46,7 +46,7 @@ webpack 4.43.0
 ```
 #### Legend
 
-| :white_check_mark: | Check-in and Merge
+| :white_check_mark: | Check-in and Merge to Base Branch
 | ----------------- | ------- |
 
 
