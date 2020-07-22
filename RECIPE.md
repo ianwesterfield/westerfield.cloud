@@ -55,4 +55,4 @@ webpack 4.43.0
 <optional> Setup a new repo and be sure all utensils are updated
 1. :white_check_mark:&nbsp;&nbsp;Establish an Angular workspace `$ ng new --name westerfield-cloud --directory . --create-application false`
 2. Generate a new default shell application: `$ ng g application --name shell --prefix cloud --routing true --style scss`
-3. :white_check_mark:&nbsp;&nbsp;Test for no errors with `$ ng build --prod && ng serve` to confirm everything is correctly wired.
+3. :white_check_mark:&nbsp;&nbsp;Test for no errors with `$ npm run testTeam` to confirm everything is correctly wired.
