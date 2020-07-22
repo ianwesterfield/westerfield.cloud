@@ -1,6 +1,6 @@
 {
   "name": "westerfield-cloud",
-  "version": "0.0.x",
+  "version": "0.0.0",
   "license": "BSL-1.0",
   "author": {
     "name": "Ian Westerfield",
@@ -14,7 +14,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "testT": "ng build --prod && ng test && ng lint && ng e2e"
+    "testTeam": "ng build --prod && ng test && ng lint && ng e2e"
   },
   "private": false,
   "dependencies": {
