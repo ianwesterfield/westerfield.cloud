@@ -58,12 +58,7 @@ webpack 4.43.0
 3. Add a new script to the workspace project.json:
   ```
   "scripts": {
-    "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
-    "test": "ng test",
-    "lint": "ng lint",
-    "e2e": "ng e2e",
+    ...,
     "qaTeam": "ng build --prod && ng test && ng lint && ng e2e"
   },
   ```
