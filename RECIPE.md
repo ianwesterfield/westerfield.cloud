@@ -1,16 +1,12 @@
-# Westerfield.Cloud Recipe
+### Westerfield.Cloud Recipe
 
-## Ingredients
-
-##
+#### Ingredients
 
 | Category          | :ramen: |
 | ----------------- | ------- |
-| **Serviing Size** | `(n+1)` |
+| **Serving Size** | `(n+1)` |
 
-## Utensils
-
-##
+#### Utensils
 
 ```shell
 $ng v
@@ -48,10 +44,15 @@ rxjs 6.5.5
 typescript 3.9.7
 webpack 4.43.0
 ```
+#### Key
 
-## 1) In the Beginning...
+| :white_check_mark: | Check-in and Merge
+| ----------------- | ------- |
 
-1. Get a new repo setup with GitHub
-2. :white_check_mark:&nbsp;&nbsp;Establish an Angular workspace `$ ng new --name westerfield-cloud --directory . --create-application false`
-3. Generate a new default shell application: `$ ng g application --name shell --prefix cloud --routing true --style scss`
-4. :white_check_mark: Test for no errors with `ng build --prod && ng serve` to confirm everything is correctly wired.
+
+#### 1) In the Beginning...
+
+<optional> Setup a new repo and be sure all utensils are updated
+1. :white_check_mark:&nbsp;&nbsp;Establish an Angular workspace `$ ng new --name westerfield-cloud --directory . --create-application false`
+2. Generate a new default shell application: `$ ng g application --name shell --prefix cloud --routing true --style scss`
+3. :white_check_mark:&nbsp;&nbsp;Test for no errors with `$ ng build --prod && ng serve` to confirm everything is correctly wired.
