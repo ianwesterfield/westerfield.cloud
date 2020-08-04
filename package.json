@@ -1,10 +1,14 @@
 {
   "name": "westerfield-cloud",
-  "version": "0.0.0",
+  "version": "0.0.0-alpha.1",
   "license": "BSL-1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianwesterfield/westerfield.cloud.git",
+    "directory": "."
+  },
   "author": {
     "name": "Ian Westerfield",
-    "email": "g995svg5yu@privaterelay.appleid.com",
     "url": "https://github.com/ianwesterfield"
   },
   "scripts": {
