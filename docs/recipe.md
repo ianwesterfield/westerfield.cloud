@@ -2,10 +2,12 @@
 # [Westerfield.cloud](../README.md) / <b>Recipe</b>
 
 <!-- omit in toc -->
-## 1. Steps
+## Steps
 - [1. Using this guide](#1-using-this-guide)
 - [2. Symbols](#2-symbols)
 - [3. Get Cooking](#3-get-cooking)
+
+<br>
 
 | Makes            | 🥓       |
 | ---------------- | ------- |
@@ -21,16 +23,14 @@ avoid context switching as a barrier to adoption, ultimately leading to better c
 
 ## 2. Symbols
 
-Refer back to this key when
-
-| Symbol | Instruction                                                                                              |
-| ------ | -------------------------------------------------------------------------------------------------------- |
-| 🤦‍♂️      | ❗️❗❗**Substitute your own names for any and all obvious references (e.g. "ian", "westerfield", etc)** ❗❗❗️ |
-| 🤖      | CLI action (Angular CLI, npm, node, bash, etc.                                                           |
-| 🔬      | This can be difficult to debug if not accurate - please measure twice!                                   |
-| 🚪      | External resource (Link, download, etc.)                                                                 |
-| 👩‍🔬      | Run the QA Team from the workspace root `$ npm run qaTeam`                                               |
-| ⏩      | Merge these changes into your existing file                                                              |
+| Symbol | Instruction                                                                                          |
+| ------ | ---------------------------------------------------------------------------------------------------- |
+| 🤦‍♂️      | ❗**Substitute your own names for any and all obvious references (e.g. "ian", "westerfield", etc)** ❗️ |
+| 🤖      | CLI action (Angular CLI, npm, node, bash, etc.                                                       |
+| 🔥      | This can be difficult to debug if not accurate - please measure twice!                               |
+| 🌎      | External resource (Link, download, etc.)                                                             |
+| 🧪      | Run the QA Team from the workspace root `$ npm run qaTeam`                                           |
+| ✅      | Merge these changes into your existing file                                                          |
 
 <br>
 
@@ -38,5 +38,3 @@ Refer back to this key when
 
 1.  [Setup the workspace](./workspace-setup.md)
 2.  Create an [Application](./application-setup.md) and/or [Library](./library-setup.md)
-
-##### <!-- omit in toc --> ☝️[top](#westerfieldcloud--brecipeb)
