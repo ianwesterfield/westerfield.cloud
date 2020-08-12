@@ -2,8 +2,7 @@
 # [Westerfield.cloud](../README.md) / [Recipe](../recipe.md) / <b>Configure Package.json</b>
 
 <!-- omit in toc -->
-##### Please review [1. Using This Guide](../recipe.md#1-using-this-guide) before continuing.
-<br />
+### 0.1 Please review [Using this Guide](/recipe.md#1-using-this-guide) before continuing.
 
 <!-- omit in toc -->
 ## Steps

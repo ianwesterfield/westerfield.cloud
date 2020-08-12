@@ -80,7 +80,7 @@ rxjs                         6.5.5
 
 ### 1.2.4. Steps to Reproduce
 
-1. Follow my [Recipe](./recipe.md) to recreate this entire application - top to bottom, front to back! (yeah, step one really is step 1.2.4.1 😉)
+Follow my [Recipe](./docs/recipe.md) to recreate this entire application - top to bottom, front to back! (yeah, step one really is step 1.2.4.1 😉)
 
 ### 1.2.5. Development server
 

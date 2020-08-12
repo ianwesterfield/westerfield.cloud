@@ -1,7 +1,9 @@
 <!-- omit in toc -->
-# [Westerfield.cloud](../README.md) / [Recipe](../recipe.md) / <b>Library Setup</b>
-##### 0.0.0.1. Please review [1. Using This Guide](../recipe.md#1-using-this-guide) before continuing. 
-<br/>
+# [Westerfield.cloud](../README.md) / [Recipe](./recipe.md) / <b>Library Setup</b>
+
+<!-- omit in toc -->
+#### 0.1 Please review [Using this Guide](/recipe.md#1-using-this-guide) before continuing.
+<br>
 
 This guide will walk you through the steps to create a namespaced library called `@westerfield-cloud/components`.
 
@@ -25,7 +27,7 @@ This guide will walk you through the steps to create a namespaced library called
       }
     }
     ```
-6. Check with 👩‍🔬
+6. 🧪✅
 
 ## 2. Create a secondary entrypoint for the library
 
@@ -72,9 +74,5 @@ This guide will walk you through the steps to create a namespaced library called
     ```json
     "deleteDestPath": false
     ```
-6. Check with 👩‍🔬
+6. 🧪✅
 7. You should now be able to import this library into other projects or even other library members
-
-#
-##### <!-- omit in toc --> ☝️[top](#westerfieldcloud--recipe--blibrary-setupb)
-<br/>
