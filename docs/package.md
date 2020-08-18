@@ -6,9 +6,9 @@
 
 <!-- omit in toc -->
 ## Steps
-- [1. Modify `package.json`](#1-modify-packagejson)
+- [Modify `package.json`](#modify-packagejson)
 
-### 1. Modify `package.json`
+### Modify `package.json`
 1. Merge the following changes into `package.json`
     ```json
     {
@@ -23,8 +23,8 @@
       },
     }
     ```
-  > * 🦠 Be sure to adjust all values to match your own.
-  > * Value of `repository.directory` should be the project's workspace-relative location.
+  > 🔥 Be sure to adjust all values to match your own.
+  > The value of `repository.directory` should be the project's location relative to the workspace.
   
 #
 ##### <!-- omit in toc --> ☝️[top](#westerfieldcloud--bconfigure-packagejsonb)

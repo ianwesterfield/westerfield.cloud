@@ -5,13 +5,24 @@
     "westerfield"
   ],
   "cSpell.ignoreWords": [
+    "angular",
+    "angular devkit build karma",
+    "bconfigure",
     "blibrary",
     "brecipeb",
     "bsecondary",
+    "build",
+    "codelyzer",
+    "devkit",
     "entrypointsb",
+    "jasminewd",
+    "karma",
     "karmaconfjs",
+    "packagejson",
+    "packagejsonb",
     "packagr",
     "setupb",
+    "tslib",
     "westerfieldcloud"
   ]
 }
