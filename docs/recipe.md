@@ -23,14 +23,14 @@ avoid context switching as a barrier to adoption, ultimately leading to better c
 
 ## 2. Symbols
 
-| Symbol | Instruction                                                                                          |
-| ------ | ---------------------------------------------------------------------------------------------------- |
-| 🤦‍♂️      | ❗**Substitute your own names for any and all obvious references (e.g. "ian", "westerfield", etc)** ❗️ |
-| 🤖      | CLI action (Angular CLI, npm, node, bash, etc.                                                       |
-| 🔥      | This can be difficult to debug if not accurate - please measure twice!                               |
-| 🌎      | External resource (Link, download, etc.)                                                             |
-| 🧪      | Run the QA Team from the workspace root `$ npm run qaTeam`                                           |
-| ✅      | Merge these changes into your existing file                                                          |
+| Symbol | Instruction                                                                                           |
+| ------ | ----------------------------------------------------------------------------------------------------- |
+| 🤦‍♂️      | ❗**Substitute your own values for any and all obvious references (e.g. "ian", "westerfield", etc)** ❗️ |
+| 🤖      | CLI action (Angular CLI, npm, node, bash, etc.                                                        |
+| 🔥      | This can be difficult to debug if not accurate - please measure twice!                                |
+| 🌎      | External resource (Link, download, etc.)                                                              |
+| 🧪      | Run the QA Team from the workspace root `$ npm run qaTeam`                                            |
+| ✅      | Merge these changes into your existing file                                                           |
 
 <br>
 

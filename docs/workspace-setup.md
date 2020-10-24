@@ -1,6 +1,6 @@
 <!-- omit in toc -->
 # [Westerfield.cloud](../README.md) / [Recipe](./recipe.md) / <b>Workspace Setup</b>
-### 0.1. Please review [Using This Guide](./recipe.md#1-using-this-guide) before continuing.
+#### 0.1. Please review [Using This Guide](./recipe.md#1-using-this-guide) before continuing.
 
 <!-- omit in toc -->
 ## Steps
@@ -16,7 +16,7 @@
       "qaTeam": "ng lint && ng build --prod && ng test && ng e2e"
     },
     ```
-4. 🧪✅
+4. 🧪 ✅
 5. Follow the [package configuration](docs/package.md) steps
 
 ## 2. Disable Ivy
@@ -51,6 +51,4 @@ Additional Reading: [GitHub: Issues with parallel build using ivy](https://githu
         }
       }
      ```
-3. 🧪✅
-
-##### <!-- omit in toc --> ☝️[top](#01-please-review-using-this-guide-before-continuing)
+3. 🧪 ✅
